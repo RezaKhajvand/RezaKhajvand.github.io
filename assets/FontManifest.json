@@ -1,0 +1,50 @@
+[
+    {
+        "family": "ABlack",
+        "fonts": [
+            {
+                "asset": "fonts/AnjomanMax-Black.ttf"
+            }
+        ]
+    },
+    {
+        "family": "ABold",
+        "fonts": [
+            {
+                "asset": "fonts/AnjomanMax-Bold.ttf"
+            }
+        ]
+    },
+    {
+        "family": "ALight",
+        "fonts": [
+            {
+                "asset": "fonts/AnjomanMax-Light.ttf"
+            }
+        ]
+    },
+    {
+        "family": "AMedium",
+        "fonts": [
+            {
+                "asset": "fonts/AnjomanMax-Medium.ttf"
+            }
+        ]
+    },
+    {
+        "family": "ARegular",
+        "fonts": [
+            {
+                "asset": "fonts/AnjomanMax-Regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "ASemoBold",
+        "fonts": [
+            {
+                "asset": "fonts/AnjomanMax-SemiBold.ttf"
+            }
+        ]
+    }
+]
